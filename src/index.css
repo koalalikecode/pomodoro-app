@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: monospace, serif;
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  background-color: #1E2140;
+}
