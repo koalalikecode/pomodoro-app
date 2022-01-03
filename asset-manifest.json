@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/pomodoro-app/static/css/main.d532c070.css",
+    "main.css": "/pomodoro-app/static/css/main.18f927e2.css",
     "main.js": "/pomodoro-app/static/js/main.fb3c3380.js",
     "static/media/setting-icon.png": "/pomodoro-app/static/media/setting-icon.85822d7faa1d283d9933.png",
     "index.html": "/pomodoro-app/index.html",
     "static/media/icon-close.svg": "/pomodoro-app/static/media/icon-close.c390448669f3a8a4c4b2ada2f9938959.svg",
     "static/media/icon-arrow-dark.svg": "/pomodoro-app/static/media/icon-arrow-dark.5215f8d979a83644d14e8b69f6ee4633.svg",
-    "main.d532c070.css.map": "/pomodoro-app/static/css/main.d532c070.css.map",
+    "main.18f927e2.css.map": "/pomodoro-app/static/css/main.18f927e2.css.map",
     "main.fb3c3380.js.map": "/pomodoro-app/static/js/main.fb3c3380.js.map"
   },
   "entrypoints": [
-    "static/css/main.d532c070.css",
+    "static/css/main.18f927e2.css",
     "static/js/main.fb3c3380.js"
   ]
 }
