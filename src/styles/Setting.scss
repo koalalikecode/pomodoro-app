@@ -1,5 +1,8 @@
 footer{
     position:relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
 
 .setting-icon {
@@ -150,4 +153,27 @@ footer{
     border-radius: 30px;
     color: white;
     cursor: pointer;
+}
+
+@media (max-width: 500px) {
+    .setting {
+        width: 100%;
+        bottom: 0;
+    }
+    .time-container {
+        .time-mode {
+            flex-direction: column;
+            .time-mode-item {
+                display: flex;
+                align-items: center;
+                width: 100%;
+                margin-top: 0.5rem;
+                justify-content: space-between;
+                >div {
+                    margin-top: 0;
+                    width: 50%;
+                }
+            }
+        }
+    }
 }

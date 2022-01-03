@@ -48,3 +48,10 @@
     opacity: 0.7;
     bottom: 6.1rem;
 }
+
+@media (max-width: 500px) {
+  .counter {
+    width: 320px;
+    height: 320px;
+  }
+}
